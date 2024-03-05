@@ -9,14 +9,14 @@ export const ProjectList = [
     id: 1,
     name: "NxtTrendz E-commerce App",
     image: Image1,
-    projectLink: "https://mahinxttrendz.ccbp.tech",
+    projectLink: "https://mahinxttrendz.ccbp.tech/",
     gitHubLink: "https://github.com/Re1435/ReactProjects/tree/master/src",
   },
   {
     id: 2,
     name: "Wikipeida Search App",
     image: Image2,
-    projectLink: "https://mahiwikipedia.ccbp.tech",
+    projectLink: "https://mahiwikipedia.ccbp.tech/",
     gitHubLink: "https://github.com/Re1435/ReactProjects",
   },
   {
