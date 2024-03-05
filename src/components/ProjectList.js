@@ -2,7 +2,7 @@ import Image1 from "../assets/Project1.png";
 import Image2 from "../assets/Project2.png";
 import Image3 from "../assets/Project3.png";
 import Image4 from "../assets/Project4.png";
-import Image5 from "../assets/Project5.png";
+// import Image5 from "../assets/Project5.png";
 
 export const ProjectList = [
   {
@@ -15,21 +15,21 @@ export const ProjectList = [
   {
     id: 2,
     name: "NxtTrendz E-commerce App",
-    image: Image1,
+    image: Image2,
     projectLink: "https://mahinxttrendz.ccbp.tech",
     gitHubLink: "https://github.com/Re1435/ReactProjects/tree/master/src",
   },
   {
     id: 3,
     name: "NxtTrendz E-commerce App",
-    image: Image1,
+    image: Image3,
     projectLink: "https://mahinxttrendz.ccbp.tech",
     gitHubLink: "https://github.com/Re1435/ReactProjects/tree/master/src",
   },
   {
     id: 4,
     name: "NxtTrendz E-commerce App",
-    image: Image1,
+    image: Image4,
     projectLink: "https://mahinxttrendz.ccbp.tech",
     gitHubLink: "https://github.com/Re1435/ReactProjects/tree/master/src",
   },
