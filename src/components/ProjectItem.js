@@ -9,13 +9,13 @@ const ProjectItem = ({ id, image, name, projectLink, gitHubLink }) => {
       <img src={image} className='bgImage' alt='project-img' />
       <h4>{name}</h4>
       <div className='link-btns'>
-        <a href={projectLink}>
+        <a href={projectLink} target='_blank' rel='noopener noreferrer'>
           <button>
             <LinkIcon />
             Project Link
           </button>
         </a>
-        <a href={gitHubLink}>
+        <a href={gitHubLink} target='_blank' rel='noopener noreferrer'>
           <button>
             <GitHubIcon />
             Github Link
