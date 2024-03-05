@@ -2,7 +2,7 @@ import Image1 from "../assets/Project1.png";
 import Image2 from "../assets/Project2.png";
 import Image3 from "../assets/Project3.png";
 import Image4 from "../assets/Project4.png";
-// import Image5 from "../assets/Project5.png";
+import Image5 from "../assets/Project5.png";
 
 export const ProjectList = [
   {
@@ -12,54 +12,34 @@ export const ProjectList = [
     projectLink: "https://mahinxttrendz.ccbp.tech",
     gitHubLink: "https://github.com/Re1435/ReactProjects/tree/master/src",
   },
+
   {
     id: 2,
-    name: "NxtTrendz E-commerce App",
+    name: "Wikipeida Search App",
     image: Image2,
-    projectLink: "https://mahinxttrendz.ccbp.tech",
-    gitHubLink: "https://github.com/Re1435/ReactProjects/tree/master/src",
+    projectLink: "https://mahiwikipedia.ccbp.tech",
+    gitHubLink: "https://github.com/Re1435/ReactProjects",
   },
   {
     id: 3,
-    name: "NxtTrendz E-commerce App",
+    name: "FoodMunch Website",
     image: Image3,
-    projectLink: "https://mahinxttrendz.ccbp.tech",
-    gitHubLink: "https://github.com/Re1435/ReactProjects/tree/master/src",
+    projectLink: "https://mahifoodwebsite.ccbp.tech",
+    gitHubLink: "https://github.com/Re1435/ReactProjects",
   },
   {
     id: 4,
-    name: "NxtTrendz E-commerce App",
+    name: "Nike Shoe Shopping App",
     image: Image4,
-    projectLink: "https://mahinxttrendz.ccbp.tech",
-    gitHubLink: "https://github.com/Re1435/ReactProjects/tree/master/src",
+    projectLink:
+      "https://6515b6f74c44ac38e135718f--majestic-buttercream-2d3a40.netlify.app",
+    gitHubLink: "https://github.com/Re1435/TailwindProject",
   },
-  // {
-  //   id: 2,
-  //   name: "Wikipeida Search App",
-  //   image: Image2,
-  //   projectLink: "https://mahiwikipedia.ccbp.tech",
-  //   gitHubLink: "https://github.com/Re1435/ReactProjects",
-  // },
-  // {
-  //   id: 3,
-  //   name: "FoodMunch Website",
-  //   image: Image3,
-  //   projectLink: "https://mahifoodwebsite.ccbp.tech",
-  //   gitHubLink: "https://github.com/Re1435/ReactProjects",
-  // },
-  // {
-  //   id: 4,
-  //   name: "Nike Shoe Shopping App",
-  //   image: Image4,
-  //   projectLink:
-  //     "https://6515b6f74c44ac38e135718f--majestic-buttercream-2d3a40.netlify.app",
-  //   gitHubLink: "https://github.com/Re1435",
-  // },
-  // {
-  //   id: 5,
-  //   name: "Money Manager Web App",
-  //   image: Image5,
-  //   projectLink: "https://mahimoneywebapp.ccbp.tech",
-  //   gitHubLink: "https://github.com/Re1435/ReactProjects",
-  // },
+  {
+    id: 5,
+    name: "Money Manager Web App",
+    image: Image5,
+    projectLink: "https://mahimoneywebapp.ccbp.tech",
+    gitHubLink: "https://github.com/Re1435/ReactProjects",
+  },
 ];
